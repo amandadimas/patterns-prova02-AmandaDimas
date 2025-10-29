@@ -1,4 +1,4 @@
-// Implementando com Bridge
+// Implementando com Bridge.
 
 // === Implementação (Implementor) ===
 class Device {
