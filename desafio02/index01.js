@@ -1,4 +1,4 @@
-// Implementando com Adapter
+// Implementando com Adapter.
 
 class LegacyPaymentSystem {
     makePayment(amount) {
